@@ -19,3 +19,7 @@ Para preencher os campos de email e senha, o script utiliza identificadores espe
 ### Agendamento de Horário
 
 Como o script é útil durante o período em que estou na faculdade, configurei-o para rodar apenas das 7h às 18h, evitando tentativas de login desnecessárias fora desse horário.
+
+### To-do (05/11/24)
+  - Atualizar readme con as informações do arquivo config.ini
+  - Traduzir os comentários para português
